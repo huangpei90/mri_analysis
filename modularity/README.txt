@@ -1,4 +1,5 @@
-This is the Matlab code used for calculating network modularity, recruitment and intergration using the community louvain function.
+This is the Matlab code (FC_modularity.m) used for calculating network modularity, recruitment and intergration using the community louvain function.
+This code can be used for both functional and structural connectivity. 
 Requires BCT toolbox (download here: https://sites.google.com/site/bctnet/)
 
 Input: 
